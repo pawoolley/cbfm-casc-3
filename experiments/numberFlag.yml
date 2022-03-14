@@ -1,0 +1,6 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+flag: numberFlag
+availableValues:
+  - 2
+  - 3
