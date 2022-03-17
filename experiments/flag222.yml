@@ -2,8 +2,4 @@
 type: experiment
 enabled: false
 flag: flag222
-conditions:
-  - group:
-      name: Test Groups
-    value: false
 value: false
