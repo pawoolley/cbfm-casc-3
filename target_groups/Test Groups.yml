@@ -1,6 +1,0 @@
-type: target-group
-name: Test Groups
-conditions:
-  - operator: regex
-    property: rox.platform
-    operand: iOS
