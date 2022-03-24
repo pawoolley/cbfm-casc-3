@@ -1,9 +1,0 @@
-# This file was edited by Cloudbees Feature Management
-type: experiment
-flag: enableTutorial
-platforms:
-  - name: Javax
-    value: false
-  - name: Java (Android)
-    value: false
-value: false
