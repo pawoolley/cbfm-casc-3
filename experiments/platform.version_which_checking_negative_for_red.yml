@@ -1,0 +1,8 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+enabled: false
+flag: platform.version_which_checking_negative_for_red
+platforms:
+  - name: custom
+    value: false
+value: false

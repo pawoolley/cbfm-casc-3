@@ -1,0 +1,12 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+enabled: false
+flag: flag 1634121242
+platforms:
+  - name: Java
+    value: false
+  - name: custom
+    value: false
+  - name: Java (Android)
+    value: false
+value: false
