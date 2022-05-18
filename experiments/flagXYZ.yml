@@ -1,4 +1,5 @@
 # This file was edited by Cloudbees Feature Management
 type: experiment
+description: a description
 flag: flagXYZ
 value: false
