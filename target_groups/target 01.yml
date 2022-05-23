@@ -1,8 +1,0 @@
-type: target-group
-name: target 01
-description: test group
-conditions:
-  - operator: in-array
-    property: rox.platform
-    operand:
-      - root
