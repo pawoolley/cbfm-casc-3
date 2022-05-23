@@ -3,7 +3,7 @@ type: experiment
 description: a description
 labels:
   - foo
-enabled: false
+enabled: true
 flag: flagXYZ
 conditions:
   - property:
