@@ -4,4 +4,10 @@ description: a description
 labels:
   - foo
 flag: flagXYZ
+conditions:
+  - property:
+      name: email
+      operator: regex
+      operand: pwoolley@cloudbees.com
+    value: true
 value: false
