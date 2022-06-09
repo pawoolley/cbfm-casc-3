@@ -4,7 +4,10 @@ labels:
   - banana
 flag: floop
 conditions:
-  - group:
-      name: target 02
+  - property:
+      name: email
+      operator: in-array
+      operand:
+        - person@company.com
     value: true
 value: false
