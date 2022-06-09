@@ -4,3 +4,11 @@ flag: my first flag
 availableValues:
   - blue
   - green
+  - red
+conditions:
+  - property:
+      name: email
+      operator: regex
+      operand: person@company.com
+    value: red
+value: blue
