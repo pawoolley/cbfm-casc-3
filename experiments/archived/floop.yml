@@ -2,6 +2,6 @@
 type: experiment
 labels:
   - archived
-enabled: false
+enabled: true
 flag: floop
 value: true
