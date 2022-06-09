@@ -1,8 +1,8 @@
 # This file was edited by Cloudbees Feature Management
 type: experiment
 labels:
-  - archived
   - banana
-enabled: true
+  - archived
+enabled: false
 flag: floop
 value: true
