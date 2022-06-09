@@ -5,4 +5,8 @@ labels:
   - archived
 enabled: false
 flag: floop
+conditions:
+  - group:
+      name: target 01
+    value: true
 value: false
