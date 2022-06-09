@@ -2,7 +2,6 @@
 type: experiment
 labels:
   - banana
-enabled: false
 flag: floop
 conditions:
   - group:
