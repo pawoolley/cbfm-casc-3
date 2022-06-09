@@ -7,6 +7,6 @@ enabled: false
 flag: floop
 conditions:
   - group:
-      name: target 01
+      name: target 02
     value: true
 value: false
