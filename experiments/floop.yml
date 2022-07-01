@@ -5,11 +5,4 @@ labels:
   - banana
 enabled: false
 flag: floop
-conditions:
-  - property:
-      name: email
-      operator: in-array
-      operand:
-        - person@company.com
-    value: true
-value: false
+value: true
