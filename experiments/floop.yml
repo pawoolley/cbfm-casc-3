@@ -3,7 +3,6 @@ type: experiment
 description: This is the description
 labels:
   - banana
-  - archived
 enabled: false
 flag: floop
 conditions:
