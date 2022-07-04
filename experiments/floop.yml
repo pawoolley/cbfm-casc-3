@@ -5,4 +5,8 @@ labels:
   - banana
 enabled: false
 flag: floop
-value: true
+conditions:
+  - group:
+      name: target 01
+    value: true
+value: false
