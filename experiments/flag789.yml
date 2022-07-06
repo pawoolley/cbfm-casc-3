@@ -1,8 +1,0 @@
-# This file was edited by Cloudbees Feature Management
-type: experiment
-labels:
-  - paul
-  - foo
-enabled: false
-flag: flag789
-value: false
