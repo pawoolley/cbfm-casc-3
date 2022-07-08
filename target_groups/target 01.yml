@@ -1,6 +1,6 @@
 type: target-group
 name: target 01
-description: test group 1
+description: test group 111
 conditions:
   - operator: regex
     property: email
