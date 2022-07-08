@@ -1,0 +1,7 @@
+type: target-group
+name: target 01
+description: test group 1
+conditions:
+  - operator: regex
+    property: email
+    operand: a.b@c.d
