@@ -1,0 +1,6 @@
+type: target-group
+name: TG2
+conditions:
+  - operator: regex
+    property: email
+    operand: foo@foo.com
