@@ -1,8 +1,0 @@
-type: target-group
-name: cloudbeespeople
-description: peeps
-conditions:
-  - operator: in-array
-    property: rox.language
-    operand:
-      - pwoolley@cloudbees.com
