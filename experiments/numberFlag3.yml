@@ -1,5 +1,5 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-flag: myFlag
+enabled: false
+flag: numberFlag3
 availableValues: []
-value: false
