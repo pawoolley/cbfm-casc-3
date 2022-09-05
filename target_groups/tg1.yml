@@ -3,4 +3,4 @@ name: tg1
 conditions:
   - operator: semver-eq
     property: rox.app_release
-    operand: 1.0.0
+    operand: 1.0.1
