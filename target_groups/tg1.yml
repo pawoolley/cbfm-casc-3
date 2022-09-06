@@ -1,6 +1,0 @@
-type: target-group
-name: tg1
-conditions:
-  - operator: semver-eq
-    property: rox.app_release
-    operand: 1.0.2
