@@ -1,4 +1,4 @@
-# This file was edited by CloudBees Feature Managementz
+# This file was edited by CloudBees Feature Management
 type: experiment
 enabled: false
 flag: fooFlag
