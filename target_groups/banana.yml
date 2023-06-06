@@ -2,6 +2,6 @@ type: target-group
 name: banana
 conditions:
   - operator: in-array
-    property: apple
+    property: foo
     operand:
-      - banana
+      - bar
