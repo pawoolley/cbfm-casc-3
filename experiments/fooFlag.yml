@@ -1,0 +1,17 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: fooFlag
+conditions:
+  - property:
+      propertyConditions:
+        - operator: gte
+          property: luckyNumber
+          operand: 15
+        - operator: in-array
+          property: email
+          operand:
+            - hello
+            - world
+    value: true
+value: false
