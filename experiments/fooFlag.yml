@@ -1,0 +1,10 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: fooFlag
+conditions:
+  - property:
+      name: rox.platform
+      operator: regex
+      operand: bar
+    value: true
+value: false
