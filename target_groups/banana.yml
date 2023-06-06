@@ -1,7 +1,6 @@
 type: target-group
 name: banana
 conditions:
-  - operator: in-array
+  - operator: gte
     property: banana
-    operand:
-      - apple
+    operand: 15
