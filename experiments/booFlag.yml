@@ -1,11 +1,11 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
-enabled: foo
+enabled: true
 flag: booFlag
 conditions:
   - property:
       propertyConditions:
-        - operator: gte
+        - operator: gtee
           property: luckyNumber
           operand: 15
         - operator: in-array
