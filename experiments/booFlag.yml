@@ -1,5 +1,5 @@
 # This file was edited by CloudBees Feature Management
-type: experiment
+type: experimentz
 enabled: true
 flag: booFlag
 conditions:
