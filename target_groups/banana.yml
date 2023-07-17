@@ -1,6 +1,0 @@
-type: target-group
-name: banana
-conditions:
-  - operator: gte
-    property: paul
-    operand: 15
