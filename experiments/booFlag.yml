@@ -1,17 +1,1 @@
-# This file was edited by CloudBees Feature Management
-type: experimentz
-enabled: true
-flag: booFlag
-conditions:
-  - property:
-      propertyConditions:
-        - operator: gtee
-          property: luckyNumber
-          operand: 15
-        - operator: in-array
-          property: email
-          operand:
-            - hello
-            - world
-    value: true
-value: false
+this whole file is invalid
